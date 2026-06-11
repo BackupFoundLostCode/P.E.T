@@ -6,4 +6,6 @@ I have no idea why, but the program is currently doing what it's supposed to do.
 
 It is now possible to search through an entire list; simply add it to the “NameList.txt” file. Each entry must be on a separate line.
 
+The functions for placing and deleting data are still to come.
+
 (The letter of your USB device must be D... or you can change it yourself in the code).
