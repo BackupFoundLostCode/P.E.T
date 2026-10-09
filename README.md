@@ -7,5 +7,6 @@ I have no idea why, but the program is currently doing what it's supposed to do.
 It is now possible to search through an entire list; simply add it to the “NameList.txt” file. Each entry must be on a separate line.
 
 The functions for placing and deleting data are still to come.
+Maybe someday I'll even be able to encrypt certain files or folders—though I still need to figure out whether GitHub will let me do that and whether I, as a complete beginner, can actually pull it off.
 
 (The letter of your USB device must be D... or you can change it yourself in the code).
